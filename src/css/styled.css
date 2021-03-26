@@ -1,0 +1,45 @@
+#statusHeader {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#routerLink {
+    padding: 5px;
+    color: white;
+    background-color: rgb(69 138 112);
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#candidateData {
+    display: flex;
+    flex-direction: column;
+}
+
+#image {
+    width: 300px;
+    height: 150px;
+}
+
+#image img{
+    max-height: 100%;
+    border-radius: 20px;
+}
+
+#canName {
+    font-weight: 700;
+}
+
+#voteButton {
+    margin-left: 50px;
+    background-color: rgb(47, 112, 47);
+    color: rgb(255, 255, 255);
+    outline: none;
+    border-radius: 5px;
+}
