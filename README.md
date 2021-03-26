@@ -1,5 +1,7 @@
 Follow the steps below to download, install, and run this project.
 
+![alt text](https://github.com/Vishesh27Kumar/DecentralisedElection/blob/master/src/images/prodpreview.jpeg)
+
 ## Dependencies
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
 - NPM: https://nodejs.org
